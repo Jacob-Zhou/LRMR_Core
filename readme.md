@@ -4,7 +4,7 @@ This package contains our implementation for:
 *** The code is run on MATLAB R2012a-2014a on Windows 7 or Linux  - 32/64 bit.
 
 Usage:
-find full running support in 
+find full running support in https://github.com/Jacob-Zhou/LRMR
 
 Support Models
 > 1) BSMD: Bi-factorization method for SMD (BSMD\SMD_Bi.m)
